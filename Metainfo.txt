@@ -1,0 +1,16 @@
+Name of QuantLet : alphashape_animation
+
+Published in : Delaunay Triangulation and Alpha-shapes
+
+Description : 'Animated illustration of alpha shapes for different values of alpha.'
+
+Keywords : 
+- Alpha shape
+- Convex hull
+- Animation
+
+Author : Jovanka Lili Matic 
+
+Submitted : Tuesday, June 23 2020 by Jovanka Lili Matic
+
+Example : 'Animation of alpha shapes from 0 to 2 by steps of 0.05.'
